@@ -3244,7 +3244,7 @@ GameObject:
   - component: {fileID: 9127414163336534393}
   - component: {fileID: 9127414163329446489}
   - component: {fileID: 9127414164977888710}
-  - component: {fileID: 8132068150609983668}
+  - component: {fileID: 46350485}
   m_Layer: 0
   m_Name: Dog_GermanShepherd_01
   m_TagString: Untagged
@@ -3335,7 +3335,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 15
---- !u!114 &8132068150609983668
+--- !u!114 &46350485
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

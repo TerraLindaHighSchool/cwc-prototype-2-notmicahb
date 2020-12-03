@@ -851,7 +851,7 @@ GameObject:
   - component: {fileID: 2804144959116824410}
   - component: {fileID: 2804144959107335448}
   - component: {fileID: 2804144960175176203}
-  - component: {fileID: 6390988032784355275}
+  - component: {fileID: 1979175920}
   m_Layer: 0
   m_Name: Animal_Cow_Brown
   m_TagString: Untagged
@@ -906,7 +906,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 15
---- !u!114 &6390988032784355275
+--- !u!114 &1979175920
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

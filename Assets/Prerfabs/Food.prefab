@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 9045591150337392006}
   - component: {fileID: 9045591150338503678}
   - component: {fileID: 9045591150749266821}
-  - component: {fileID: 2435284501777399879}
   m_Layer: 0
   m_Name: Food
   m_TagString: Untagged
@@ -94,15 +93,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 30
---- !u!114 &2435284501777399879
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9045591150340484410}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cd6c0a118926bb24db062cbca5ac64c6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
